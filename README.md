@@ -6,7 +6,7 @@ Welcome to the OIBSIP repository! This repository contains web development proje
 
 ### 1. ToDo List App
 
-![ToDo List App](./OIBSIP-To-do%20List/)
+- [ToDo List App](./OIBSIP-To-do%20List/)
 
 Description: The ToDo List App is a web application built using HTML, CSS, and JavaScript. It allows users to manage their tasks efficiently with features like adding, editing, and deleting tasks.
 
@@ -17,7 +17,7 @@ Description: The ToDo List App is a web application built using HTML, CSS, and J
 
 ### 2. Calculator
 
-![Calculator](./OIBSIP-Calculator/)
+- [Calculator](./OIBSIP-Calculator/)
 
 Description: The Calculator project is a simple web-based calculator implemented with HTML, CSS, and JavaScript. It provides basic arithmetic operations for users.
 
@@ -28,7 +28,7 @@ Description: The Calculator project is a simple web-based calculator implemented
 
 ### 3. Tribute Page
 
-![Tribute Page](./OIBSIP-Tribute%20Page/)
+- [Tribute Page](./OIBSIP-Tribute%20Page/)
 
 Description: The Tribute Page project is a web page paying tribute to A.P.J. ABDUL KALAM. It's designed using HTML and CSS to showcase key information and highlights.
 
